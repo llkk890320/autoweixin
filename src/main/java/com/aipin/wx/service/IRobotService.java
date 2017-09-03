@@ -1,0 +1,1 @@
+package com.aipin.wx.service;public class IRobotService {	}

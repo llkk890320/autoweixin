@@ -1,1 +1,0 @@
-package cn.zhouyafeng.itchat4j.api;import cn.zhouyafeng.itchat4j.core.Core;public class WeiXinRobot{		private Core core;		}
